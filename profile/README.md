@@ -26,5 +26,5 @@
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 
 ## :information_source:	INFO
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsk1mlot)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsk1mlot)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ITSKIMLOT-Labs)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITSKIMLOT-Labs)](https://github.com/anuraghazra/github-readme-stats)
